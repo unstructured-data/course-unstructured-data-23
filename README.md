@@ -1,4 +1,4 @@
-# CEMFI Unstructured Data in Empirical Economics
+# CEMFI Unstructured Data in Empirical Economics Course
 
 Materials for the 2023 Unstructured Data in Empirical Economics course at CEMFI.
 
